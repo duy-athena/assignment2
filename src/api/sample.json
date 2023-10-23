@@ -1,0 +1,62 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 458,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "rUhaswEACAAJ",
+      "etag": "/tdnBlTsGv8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rUhaswEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter Va Bao Boi Tu Than",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:764506927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "vi",
+        "previewLink": "http://books.google.com.vn/books?id=rUhaswEACAAJ&dq=Harry+potter&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.vn/books?id=rUhaswEACAAJ&dq=Harry+potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_Va_Bao_Boi_Tu_Than.html?hl=&id=rUhaswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "VN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "VN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rUhaswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
